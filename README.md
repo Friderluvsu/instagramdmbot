@@ -1,4 +1,8 @@
+<p><samp>F/ &nbsp; DESKTOP SOFTWARE / ARTIST WORKFLOWS</samp></p>
+
 # Verse
+
+[Скачать](https://github.com/Friderluvsu/instagramdmbot/releases/latest) · [Все релизы](https://github.com/Friderluvsu/instagramdmbot/releases) · [Поддержка](https://t.me/versemgmt)
 
 Verse — приложение для macOS и Windows для работы с артистами: парсинг Instagram, рассылки в директ, iMessage, Discord, Email и Spotify, общая CRM и встроенный ассистент.
 
