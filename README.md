@@ -12,8 +12,7 @@ Verse — приложение для macOS и Windows для работы с а
 
 | Система | Файл |
 |---|---|
-| macOS, Apple Silicon (M1–M4) | `Verse-<версия>-arm64.dmg` |
-| macOS, Intel | `Verse-<версия>-x64.dmg` |
+| macOS, Apple Silicon (M1 и новее) | `Verse-<версия>-arm64.dmg` |
 | Windows 10 / 11 | `Verse-Setup-<версия>.exe` |
 
 Новые версии приложение предлагает установить само.
